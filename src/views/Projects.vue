@@ -30,7 +30,7 @@ const projects = [
     {
         name: "做出桌布？",
         description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
+        image: "https://media.discordapp.net/attachments/990541977177161748/994148670058532935/006.PNG?width=1120&height=630",
         link: "https://github.com",
         tags: ["tag1", "tag2", "tag3"],
     },
